@@ -30,7 +30,7 @@ class Test:
         """Test the divide function"""
         assert calculate.divide(6, 3) == 2
     
-    
+
     def test_power(self):
         """Test the power function"""
-        assert calculate.power(2, 3) == 7
+        assert calculate.power(2, 3) == 8
