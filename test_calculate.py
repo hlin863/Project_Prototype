@@ -29,3 +29,8 @@ class Test:
     def test_divide(self):
         """Test the divide function"""
         assert calculate.divide(6, 3) == 2
+    
+    
+    def test_power(self):
+        """Test the power function"""
+        assert calculate.power(2, 3) == 7

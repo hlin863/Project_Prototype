@@ -26,3 +26,8 @@ def multiply(a, b):
 def divide(a, b):
     """Divide Function"""
     return a / b
+
+
+def power(a, b):
+    """Power Function"""
+    return a ** b
